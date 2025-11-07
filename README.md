@@ -1,12 +1,6 @@
 # base-simple-contract
 Petit projet original pour déployer un smart contract simple sur la blockchain Base.
 
-# Base Simple Smart Contract (original repo)
-
-Petit projet original pour déployer un **smart contract minimaliste** sur la blockchain **Base** 🪩
-
-Ce repo est **original**, donc si vous le **forkez**, cela aide chacun à gagner les **12 points Talent Protocol** liés aux forks GitHub 🔥
-
 ---
 
 ## 📜 Contrat Solidity
